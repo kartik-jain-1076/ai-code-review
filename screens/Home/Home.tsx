@@ -25,6 +25,10 @@ export function Home(props: HomeProps) {
     // }
     // setSelectedActivities(data);
     console.log('blah blah blah')
+    console.log('blah blah blah')
+    console.log('blah blah blah')
+    console.log('blah blah blah')
+    console.log('blah blah blah')
   }, []);
   return <></>;
   // return selectedActivities.length ? <Discover title="Discover" /> : <ActivitySelectorComponent activities={ACTIVITIES_LIST} />;
